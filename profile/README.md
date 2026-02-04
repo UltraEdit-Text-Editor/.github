@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ultraedit-text-editor.github.io/.github/">
+  <a href="https://ultraedit-texteditor.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_UltraEdit-blue?style=for-the-badge&logo=github" alt="Get UltraEdit"/>
   </a>
 </p>
